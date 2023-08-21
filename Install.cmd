@@ -6,7 +6,7 @@ echo Installing NoLock...
 echo.
 echo Made by Lucas Gabriel (lucmsilva)
 echo https://github.com/kruct/nolock
-reg import /s NoLock.reg
+reg import NoLock.reg
 echo.
 echo Installed with success! Restarting Windows Explorer...
 echo.
